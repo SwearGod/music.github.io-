@@ -1,0 +1,32 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url(../img/bg3.png);
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.container{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.fb{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.record p{
+  padding-left: 20px;
+  color: white;
+  padding-bottom: 15px;
+}
+audio{
+padding-left: 20px;ы
+}
